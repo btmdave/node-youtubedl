@@ -1,7 +1,7 @@
-# utorrent-cluster
+# noe-youtubedl
 
-Redis-backed utorrent cluster in node.js for torrent downloads
+Simple wrapper for youtubedl
 
 ## Installation
 
-`npm install utorrent-cluster`
+`npm install node-youtubedl`
