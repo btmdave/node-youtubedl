@@ -1,4 +1,4 @@
-# noe-youtubedl
+# node-youtubedl
 
 Simple wrapper for youtubedl
 
